@@ -1,5 +1,13 @@
 # Research changelog
 
+## 2026-08-14 — User lead audit: MSI Vector 17 HX AI A2XWJG-059BE & A2XWJG-057BE
+
+- Evaluated user-supplied 17-inch MSI Vector leads: Coolblue live product page for exact BE `A2XWJG-059BE` and Tweakers Pricewatch entries for `059BE` and `057BE`.
+- Verified exact specs for `A2XWJG-059BE`: Core Ultra 9 275HX, RTX 5090 24GB (175W TGP), factory **64 GB RAM**, 2 TB SSD, 17" QHD+ (2560x1600) 240Hz 100% DCI-P3 matte IPS display, 2x TB5, 2.5GbE RJ45, Belgian AZERTY.
+- Priced `A2XWJG-059BE` at **€4,329.00 incl. VAT** on Coolblue (in stock), which leaves €115.17 margin under the €4,444.17 ceiling.
+- Created `CAND-151` (`laptop-b/msi-vector-17-hx-ai-a2xwjg-059be.md`), `OFFER-COOLBLUE-A2XWJG-059BE-2026-08`, and evidence `SRC-0368`.
+- Preserved the existing rejection verdict under the MSI platform and acoustics doctrine: exact-chassis reviews (Notebookcheck/LaptopMedia) measured up to 60W idle draw and high fan noise needing a clean Windows reinstall, 60.35 dB fan noise in Extreme/AI mode, and standard 2-year warranty needing a separate 3rd-year repair coverage add-on.
+
 ## 2026-08-13 — Supplied finalist claims factchecked; XMG exception accepted
 
 - Audited the multi-brand claim bundle claim-by-claim instead of treating linked prose as manufacturer confirmation.

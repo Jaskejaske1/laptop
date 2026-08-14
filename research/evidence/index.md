@@ -1,6 +1,6 @@
 # Evidence index
 
-Indexed sources: **367** (`SRC-0001` through `SRC-0367`). The original 204 migrated records and every later record remain preserved. Source IDs are stable and must never be reused.
+Indexed sources: **368** (`SRC-0001` through `SRC-0368`). The original 204 migrated records and every later record remain preserved. Source IDs are stable and must never be reused.
 
 Do not read this file front-to-back. Start from a candidate's `source_ids`, then open only those records. `devices/` holds product/chassis evidence, `vendors/` holds commerce/support evidence and `topics/` holds comparisons or cross-device questions.
 
@@ -373,3 +373,5 @@ Do not read this file front-to-back. Start from a candidate's `source_ids`, then
 | SRC-0365 | 2026-08-14 | SCAR 16 versus Strix G16 same-specs thread interpretation | Community claims bounded; same chassis/175W parity and main premium differences independently PROVEN | [record](./topics/src-0365-scar16-versus-strix-g16-same-specs-thread-interpretation.md) |
 | SRC-0366 | 2026-08-14 | ASUS Strix/SCAR lighting and battery | PROVEN features and measurements; cross-protocol runtime bounded | [record](./topics/src-0366-asus-strix-scar-lighting-and-battery.md) |
 | SRC-0367 | 2026-08-14 | PCSpecialist Recoil IV Belgian launch audit | PROVEN exact transaction/specs; independent behavior and full 3Y support UNKNOWN | [record](./vendors/src-0367-pcspecialist-recoil-iv-16-launch-audit.md) |
+| SRC-0368 | 2026-08-14 | Coolblue Belgian offer for MSI Vector 17 HX AI A2XWJG-059BE | PROVEN exact transaction / factory 64GB / RTX 5090 | [record](./vendors/src-0368-coolblue-msi-vector17-059be-offer.md) |
+

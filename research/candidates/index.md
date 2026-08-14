@@ -1,6 +1,6 @@
 # Candidate index
 
-This compact index represents all **150** candidate records: 46 Laptop-A records, 95 Laptop-B records and 9 preserved exclusions. Details, rejection reasons and original rows live in the linked records.
+This compact index represents all **151** candidate records: 46 Laptop-A records, 96 Laptop-B records and 9 preserved exclusions. Details, rejection reasons and original rows live in the linked records.
 
 Do not rank from this index alone. Read the candidate record, its offers and cited evidence.
 
@@ -165,3 +165,5 @@ Current working set: `CAND-062` Strix 5080 (`shortlist`), `CAND-150` Recoil IV 5
 | CAND-148 | Dell Pro Max 16 Plus MB16250 touchscreen branch | rejected | BE configurator | RTX PRO 3000/32GB/1TB/touch lower bound €4939.91 before matched 3Y support | [record](./laptop-b/dell-pro-max-16-plus-mb16250-touch-config.md) |
 | CAND-149 | ASUS ROG Strix SCAR 16 G635LX-RW042W | rejected | BE | live €4899 is €454.83 over ceiling; strong hardware but integration conflict also remains | [record](./laptop-b/asus-rog-strix-scar16-g635lx-rw042w.md) |
 | CAND-150 | PCSpecialist Recoil IV 16 290HX Plus/RTX5090 configured | verifying | BE exact-config | EUR 4232 for 64GB/2TB; exceptional paper value, but exact review and full 3Y parts coverage absent | [record](./laptop-b/pcspecialist-recoil-iv-16-290hxplus-5090-be-config.md) |
+| CAND-151 | MSI Vector 17 HX AI A2XWJG-059BE RTX 5090 | rejected | BE | €4329.00 Coolblue 64GB/2TB live offer; ideal 17-inch size, rejected under MSI platform/noise gate | [record](./laptop-b/msi-vector-17-hx-ai-a2xwjg-059be.md) |
+
