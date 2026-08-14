@@ -908,3 +908,37 @@
 - Reactivated the ASUS EUR 3129 promotion as a new 2026-08-14 observation while preserving that it was legitimately non-reproducible and retracted on 2026-08-12.
 - Added a complete EUR 4408.58 Belgian route with 64GB RAM and 5TB total storage; the lower EUR 4387.35 direct-NL route remains conditional on Belgian checkout. Kept the second-slot 4TB field `LIKELY` because ASUS does not explicitly guarantee that capacity for the exact Belgian SKU.
 - Added `SRC-0362`, three offer records and Decision 57; updated the candidate, active state and all navigation indexes.
+
+## 2026-08-14 — Strix workload-fit gate
+
+- Mapped official grandMA3 onPC and Capture 2026 requirements to the proven exact Strix hardware instead of inferring suitability from the RTX label alone.
+- Established large performance margin for grandMA3, Capture and light gaming, plus strong development/render/multitask fitness.
+- Identified the official 64GB RAM ceiling as the real boundary for dense VM workloads; retained 24GB RTX 5090 as a workload-specific VRAM choice rather than generic future-proofing.
+- Added `SRC-0363` and Decision 58; candidate remains shortlist/current rational leader with the ownership caveats intact.
+
+## 2026-08-14 — Strix RAM and NVMe speed clarification
+
+- Corrected the shorthand 64GB upgrade description to the exact selected memory specification: DDR5-5600 CL40. Factory memory is also 5600, while 6400 CL52 is a same-family compatible route rather than an ASUS-certified exact-SKU result.
+- Recorded that 6400 CL52 provides more theoretical bandwidth but worse nominal CAS latency than 5600 CL40, so its label does not establish better workload performance.
+- Closed purchase planning on proven PCIe 4.0 internal storage. The factory SSD is Gen4 and ASUS does not certify internal Gen5 for exact `S5058W`; high-end TLC/DRAM Gen4 is the recommended VM/project drive class.
+- Added `SRC-0364` and Decision 59 without changing the Strix shortlist status.
+
+## 2026-08-14 — Strix fixed-SKU versus configuration clarification
+
+- Clarified that Belgian `90NR0LG1-M002P0` is sold as a fixed 32GB/1TB add-to-cart SKU, not through a manufacturer CTO configurator.
+- Relabelled the 64GB/5TB plan as an owner-installed aftermarket configuration so it cannot be mistaken for an ASUS factory order. No price, compatibility label or shortlist status changed.
+
+## 2026-08-14 — Buyer-supplied same-spec SCAR versus Strix thread interpreted
+
+- Preserved and classified the supplied community discussion instead of treating Reddit consensus as product proof.
+- Independently confirmed shared 2025 chassis architecture and 175W RTX 5080 parity; rejected unproven claims of categorically higher SCAR GPU power, all-metal construction, universal RAID 0 and predictably shorter Mini-LED life.
+- Defined the approximately EUR 550 exact-Belgian SCAR premium as mainly Mini-LED HDR, extra factory storage and smaller input/audio/decorative refinements. Strix remains shortlist; SCAR remains `conflict` because the thread does not address its firmware/display-path issue.
+- Added `SRC-0365` and Decision 60.
+
+## 2026-08-14 — ASUS lighting/battery clarified and Recoil IV launch isolated
+
+- Defined SCAR AniMe Vision as an 810-LED cosmetic lid matrix and per-key RGB as individual-key lighting; neither changes performance. Preserved exact review runtimes without mixing protocols into a false fixed battery gap.
+- Added separate `CAND-150` for the new Recoil IV rather than silently transferring Recoil III review behavior.
+- Proved a EUR 4232 Belgian 290HX Plus/RTX5090/64GB-6400/2TB/BE-keyboard transaction and corrected the earlier IV LAN note to official 2.5GbE.
+- Retained the purchase hold: no exact independent IV review exists and included Gold lacks parts/collection in year three.
+- Added `SRC-0366`, `SRC-0367`, a new offer record and Decision 61.

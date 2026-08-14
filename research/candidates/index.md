@@ -1,10 +1,10 @@
 # Candidate index
 
-This compact index represents all **149** candidate records: 46 Laptop-A records, 94 Laptop-B records and 9 preserved exclusions. Details, rejection reasons and original rows live in the linked records.
+This compact index represents all **150** candidate records: 46 Laptop-A records, 95 Laptop-B records and 9 preserved exclusions. Details, rejection reasons and original rows live in the linked records.
 
 Do not rank from this index alone. Read the candidate record, its offers and cited evidence.
 
-Current working set: `CAND-062` Strix 5080 (`shortlist`), `CAND-085` SCAR 5080 (`conflict`), `CAND-096` MSI Raider 5090 (`conflict`), `CAND-067` MSI Raider 5080 (`shortlist/value`) and the Dell `2H3VJ` reference. See [`../current.md`](../current.md) before opening any record.
+Current working set: `CAND-062` Strix 5080 (`shortlist`), `CAND-150` Recoil IV 5090 (`verifying`), `CAND-085` SCAR 5080 (`conflict`), `CAND-096` MSI Raider 5090 (`conflict`), `CAND-067` MSI Raider 5080 (`shortlist/value`) and the Dell `2H3VJ` reference. See [`../current.md`](../current.md) before opening any record.
 
 ## LAPTOP A
 
@@ -164,3 +164,4 @@ Current working set: `CAND-062` Strix 5080 (`shortlist`), `CAND-085` SCAR 5080 (
 | CAND-147 | GIGABYTE AORUS Master 16 BYHC5FRE65SP | watchlist | FR SKU via BE marketplace | €4278.21 delivered; 175W 5080/TB5+TB4, but French AZERTY and only 2Y support | [record](./laptop-b/gigabyte-aorus-master16-byhc5fre65sp.md) |
 | CAND-148 | Dell Pro Max 16 Plus MB16250 touchscreen branch | rejected | BE configurator | RTX PRO 3000/32GB/1TB/touch lower bound €4939.91 before matched 3Y support | [record](./laptop-b/dell-pro-max-16-plus-mb16250-touch-config.md) |
 | CAND-149 | ASUS ROG Strix SCAR 16 G635LX-RW042W | rejected | BE | live €4899 is €454.83 over ceiling; strong hardware but integration conflict also remains | [record](./laptop-b/asus-rog-strix-scar16-g635lx-rw042w.md) |
+| CAND-150 | PCSpecialist Recoil IV 16 290HX Plus/RTX5090 configured | verifying | BE exact-config | EUR 4232 for 64GB/2TB; exceptional paper value, but exact review and full 3Y parts coverage absent | [record](./laptop-b/pcspecialist-recoil-iv-16-290hxplus-5090-be-config.md) |

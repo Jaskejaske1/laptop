@@ -1,6 +1,6 @@
 # Offerregister
 
-Er zijn **50 afzonderlijke offerrecords**. Ieder record beschrijft één verkoper, regio, exacte configuratie, waargenomen prijsdatum, toetsenbord, voorraad en support. Een offer is tijdgevoelig; een kandidaatdossier beschrijft het apparaat zelf.
+Er zijn **51 afzonderlijke offerrecords**. Ieder record beschrijft één verkoper, regio, exacte configuratie, waargenomen prijsdatum, toetsenbord, voorraad en support. Een offer is tijdgevoelig; een kandidaatdossier beschrijft het apparaat zelf.
 
 ## Actuele beslissende kooproutes
 
@@ -14,6 +14,7 @@ Er zijn **50 afzonderlijke offerrecords**. Ieder record beschrijft één verkope
 | MSI Raider 5090 `B2WJ-039BE` | Coolblue België | EUR 4199 met lader; EUR 4361,62 met apart derde jaar | [`coolblue/msi-b2wj-039be-2026-08.md`](coolblue/msi-b2wj-039be-2026-08.md) |
 | MSI Raider 5080 `B2WI-035BE` | Coolblue België | EUR 3699 met lader; EUR 3861,62 met apart derde jaar | [`coolblue/msi-b2wi-035be-2026-08.md`](coolblue/msi-b2wi-035be-2026-08.md) |
 | ASUS SCAR 16 5090 `G635LX-RW042W` | MediaMarkt België | live EUR 4899; oude EUR 4287-cache ingetrokken | [`mediamarkt/asus-scar-g635lx-rw042w-2026-08.md`](mediamarkt/asus-scar-g635lx-rw042w-2026-08.md) |
+| PCSpecialist Recoil IV 16 | PCSpecialist België | EUR 4232; 290HX Plus/5090/64GB/2TB/BE AZERTY; Gold is geen volledige 3Y dekking | [`pcspecialist/recoil-iv-intel-5090-be-2026-08.md`](pcspecialist/recoil-iv-intel-5090-be-2026-08.md) |
 
 ## Gebruik
 

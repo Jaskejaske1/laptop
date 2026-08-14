@@ -9,7 +9,7 @@ region: "BE"
 exact_sku: "G635LW-RW089W / 90NR0LD1-M003N0"
 last_verified: "2026-08-13"
 offer_ids: ["OFFER-ASUS-G635LW-RW089W-2026-08", "OFFER-COOLBLUE-G635LW-RW089W-2026-08-13"]
-source_ids: ["SRC-0078", "SRC-0228", "SRC-0229", "SRC-0316", "SRC-0317", "SRC-0320", "SRC-0331", "SRC-0336", "SRC-0337", "SRC-0340", "SRC-0341", "SRC-0353", "SRC-0354"]
+source_ids: ["SRC-0078", "SRC-0228", "SRC-0229", "SRC-0316", "SRC-0317", "SRC-0320", "SRC-0331", "SRC-0336", "SRC-0337", "SRC-0340", "SRC-0341", "SRC-0353", "SRC-0354", "SRC-0365"]
 critical_unknowns: ["prevalence/current resolution of external-display and dGPU/hybrid transition crashes", "stable current OEM control-stack behavior without buyer workarounds"]
 legacy_status: "new after migration"
 legacy_origin: "research follow-up 2026-08-12"
@@ -32,6 +32,7 @@ legacy_origin: "research follow-up 2026-08-12"
 - **DPC:** same-chassis 5090 review found slight real-time-audio limitations; exact 5080 result remains UNKNOWN but is noncritical while Ableton stays on the desktop.
 - **Touchpad:** an exact RTX 5080 professional review describes the large glass surface as smooth with a satisfying click. A second same-chassis review independently reports a smooth ClickPad with muffled, high-quality mechanical clicks. Exact dimensions remain unpublished; it is conventional mechanical rather than haptic.
 - **Construction:** plastic main chassis and metal display lid PROVEN by the exact review. The plastic is rigid/good quality and cooler at the palm rest, but this is not an all-metal premium shell.
+- **Strix delta:** The 2025 SCAR and ordinary Strix share the base chassis architecture and 175W RTX 5080 ceiling. Against the exact Belgian Strix, the approximately EUR 550 live premium mainly buys Mini-LED HDR/local contrast, per-key/decorative lighting, the extra factory 1TB and modest refinements—not more GPU power, an all-metal shell or Dell-class service.
 - **Support:** ASUS Belgium's live campaign explicitly includes G635LW: qualifying purchases through 31 December 2026 get a free third standard manufacturer-warranty year after invoice/serial registration by 31 January 2027. It is not onsite or ProSupport.
 - **Thunderbolt maintenance:** ASUS publishes a dedicated `dTBT_FW` firmware package and allows active firmware delivery through Windows Update. This is more automatic than XMG's manual BIOS/EC workflow, without proving a seven-year update promise.
 - **Software/integration conflict:** exact G635LW reports establish BIOS-linked control regression, BIOS-318 crash/black-screen incidents and a persistent external-monitor gaming crash on one RTX-5080 unit despite clean installs and official drivers. A separate Optimus creator-app freeze was fixed upstream by Intel, while exact professional reviews completed sustained tests normally. Armoury Crate is demonstrably heavy/messy and has required security updates; G-Helper is a useful unofficial mitigation but cannot be treated as OEM platform integration or cure firmware/display-path defects.

@@ -1,6 +1,6 @@
 # Evidence index
 
-Indexed sources: **362** (`SRC-0001` through `SRC-0362`). The original 204 migrated records and every later record remain preserved. Source IDs are stable and must never be reused.
+Indexed sources: **367** (`SRC-0001` through `SRC-0367`). The original 204 migrated records and every later record remain preserved. Source IDs are stable and must never be reused.
 
 Do not read this file front-to-back. Start from a candidate's `source_ids`, then open only those records. `devices/` holds product/chassis evidence, `vendors/` holds commerce/support evidence and `topics/` holds comparisons or cross-device questions.
 
@@ -368,3 +368,8 @@ Do not read this file front-to-back. Start from a candidate's `source_ids`, then
 | SRC-0360 | 2026-08-14 | Strix G16 2025/2026 boundary and Belgian SCAR 16 RTX 5090 deal | PROVEN exact transaction/specs and exact-chassis review; integration remains CONFLICT | [record](./topics/src-0360-asus-strix-2025-2026-and-scar5090-be-deal.md) |
 | SRC-0361 | 2026-08-14 | SCAR live-price correction and MSI RTX 5090 battery | SCAR €4899 supersedes cache; MSI battery advantage PROVEN; SKU metadata CONFLICT retained | [record](./topics/src-0361-scar-live-price-correction-and-msi5090-battery.md) |
 | SRC-0362 | 2026-08-14 | Strix G615LW Belgian purchase and upgrade routes | PROVEN live transactions/64GB; second-slot 4TB LIKELY on exact chassis | [record](./topics/src-0362-strix-g615lw-belgian-purchase-and-upgrade-routes.md) |
+| SRC-0363 | 2026-08-14 | Strix G615LW workload fitness | PROVEN software requirements mapped to exact hardware; 64GB is first VM ceiling | [record](./topics/src-0363-strix-g615lw-workload-fitness.md) |
+| SRC-0364 | 2026-08-14 | Strix G615LW memory and storage speed boundary | PROVEN factory 5600/Gen4; exact-SKU 64GB-at-6400 LIKELY; internal Gen5 not credited | [record](./topics/src-0364-strix-g615lw-memory-and-storage-speed-boundary.md) |
+| SRC-0365 | 2026-08-14 | SCAR 16 versus Strix G16 same-specs thread interpretation | Community claims bounded; same chassis/175W parity and main premium differences independently PROVEN | [record](./topics/src-0365-scar16-versus-strix-g16-same-specs-thread-interpretation.md) |
+| SRC-0366 | 2026-08-14 | ASUS Strix/SCAR lighting and battery | PROVEN features and measurements; cross-protocol runtime bounded | [record](./topics/src-0366-asus-strix-scar-lighting-and-battery.md) |
+| SRC-0367 | 2026-08-14 | PCSpecialist Recoil IV Belgian launch audit | PROVEN exact transaction/specs; independent behavior and full 3Y support UNKNOWN | [record](./vendors/src-0367-pcspecialist-recoil-iv-16-launch-audit.md) |

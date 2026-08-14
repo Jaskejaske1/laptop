@@ -481,3 +481,29 @@ Last updated: 2026-08-12
 - Exact Belgian Strix `G615LW-S5058W / 90NR0LG1-M002P0` is currently cheapest at ALTERNATE Belgium for EUR 3099 including VAT and free delivery; ASUS direct is EUR 3129. Both are Belgian AZERTY and advertise the eligible free third ASUS manufacturer-warranty year.
 - The factory 32GB/1TB configuration is the budget purchase. Replacing its two SO-DIMMs with Kingston `KF556S40IBK2-64` and adding a heatsink-free Crucial T500 4TB in the empty second M.2 slot produces 64GB and 5TB total for EUR 4408.58 through reproducible Belgian purchase routes. Direct Update.nl could lower this to EUR 4387.35 only if its Belgian checkout preserves the direct price.
 - ASUS formally supports 64GB. Exact-chassis evidence and physical/family compatibility strongly support a 4TB second SSD, but ASUS does not explicitly certify 4TB for exact `S5058W`; therefore this field stays `LIKELY`. The 2TB second-SSD route remains the lower-risk alternative.
+
+## Decision 58 — 2026-08-14 — Strix is workload-suitable; 64GB is the substantive boundary
+
+- Official grandMA3 onPC requirements are exceeded by a wide margin: the software recommends 16GB RAM, 4GB VRAM, SSD, gigabit Ethernet and favors cores/cache. The Strix supplies 275HX, 32/64GB, 16GB VRAM, NVMe and 2.5GbE.
+- Capture identifies GPU performance as the main real-time visualisation constraint and treats PassMark G3D 5000 as a general floor. A full-power RTX 5080 is comfortably beyond it, while exact maximum project complexity remains inherently workload-dependent.
+- Light gaming does not justify RTX 5090. Programming, thick multitasking, rendering and ordinary multi-VM work fit well; 64GB becomes the first limitation for a dense VM lab. RTX 5090/24GB or a 96/128GB platform should be chosen only if those larger capacities correspond to concrete workloads.
+- The Strix is therefore `purchase-suitable/current rational leader`, not a claim of perfect seven-year certainty. Consumer support and the 64GB ceiling remain its material disadvantages against Dell-class service and higher-capacity platforms.
+
+## Decision 59 — 2026-08-14 — Strix speed plan uses proven 5600 CL40 and Gen4, not headline labels
+
+- Exact Belgian `G615LW-S5058W` factory memory is 32GB DDR5-5600 and its factory SSD is PCIe 4.0. ASUS does not certify internal Gen5 for this SKU, so the purchase plan counts on two Gen4 slots.
+- Core Ultra 9 275HX supports up to DDR5-6400 and Kingston lists CL52 6400 CSODIMMs for the G615 family, but exact Belgian-SKU 64GB-at-6400 operation remains `LIKELY`. The existing 64GB DDR5-5600 CL40 route has lower nominal CAS latency than 6400 CL52 and remains the conservative stable-performance selection.
+- SSD priority is high-end TLC/DRAM Gen4 with strong random I/O and endurance. Gen5 carries no purchase value until exact slot capability is proven.
+
+## Decision 60 — 2026-08-14 — Same-spec 2025 SCAR premium is display-led, not platform-led
+
+- Exact professional evidence confirms the 2025 Strix G615LW and SCAR G635LW share their base chassis architecture, plastic-main-chassis/metal-lid construction and 175W RTX 5080 ceiling. Claims that the SCAR has categorically higher 5080 power or workstation-grade construction are rejected.
+- SCAR's material premium is the Mini-LED HDR panel and smaller keyboard/audio/decorative refinements. The ordinary Strix panel remains a measured 536-nit, approximately full-P3, accurate matte IPS and is not a low-grade screen.
+- At the last reproduced exact Belgian offers, SCAR costs about EUR 550 more while retaining the unresolved software/external-display conflict. The premium is rational only for a buyer who personally values laptop HDR/local contrast by that amount; the supplied thread does not resolve the conflict or displace Strix as the cleaner value choice.
+
+## Decision 61 — 2026-08-14 — Recoil IV becomes the strongest paper-value lead, not yet a recommendation
+
+- The newly live Belgian Recoil IV is isolated from Recoil III as `CAND-150`. Exact configuration at EUR 4232 supplies 290HX Plus, officially 175W RTX 5090 24GB, 64GB DDR5-6400, 2TB, Mini-LED P3, Belgian AZERTY, aluminium, glass touchpad, 99Wh, 2.5GbE and two M.2 slots.
+- It cannot inherit exact behavior from the reviewed III/AMD chassis. Sustained power, thermals, light-load noise, battery, touchpad execution, DPC and firmware/driver stability remain UNKNOWN; official battery language is only up to five hours in UMA mode.
+- Included Gold is not full three-year repair coverage: year three supplies labor but not parts or collection. The candidate remains `verifying` until exact professional reviews arrive and Platinum/equivalent support is available and counted under the ceiling.
+- SCAR AniMe Vision is classified as cosmetic lid lighting and per-key RGB as individually controllable key lighting. Battery evidence favors the simpler IPS Strix as the safer efficiency route, but cross-protocol measurements do not justify a fixed universal hour gap.

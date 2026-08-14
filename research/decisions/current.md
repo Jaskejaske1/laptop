@@ -26,9 +26,12 @@ Laatst verzoend: 2026-08-14. De volledige chronologie staat in [`../history/deci
 
 ## Actuele kandidaatbeslissingen
 
-- ASUS Strix G16 `G615LW-S5058W` blijft `shortlist` en is de schoonste rationele 5080-kandidaat. De actuele budgetroute is EUR 3099 voor 32GB/1TB; de maximale reproduceerbare Belgische onder-plafondroute is EUR 4408,58 voor 64GB en 5TB totaal, waarbij de tweede 4TB SSD `LIKELY` compatibel is maar niet exact-SKU-gegarandeerd door ASUS.
+- ASUS Strix G16 `G615LW-S5058W` blijft `shortlist` en is de schoonste rationele 5080-kandidaat. De actuele budgetroute is EUR 3099 voor 32GB DDR5-5600/1TB Gen4; de maximale reproduceerbare Belgische onder-plafondroute is EUR 4408,58 voor 64GB DDR5-5600 CL40 en 5TB totaal. Een 64GB/6400 CL52-route is alleen `LIKELY` voor de exacte Belgische SKU en niet automatisch sneller; interne Gen5-snelheid wordt niet geclaimd. De tweede 4TB SSD blijft `LIKELY` compatibel maar niet exact-SKU-gegarandeerd door ASUS.
+- De Strix is voor de benoemde workloads purchase-suitable: grandMA3 en Capture worden ruim gedekt, lichte gaming is overprovisioned en 275HX/5080 past development/rendering. De beslissende capaciteitsvraag is of 64GB genoeg blijft voor de beoogde VM-dichtheid; 5090/24GB is alleen rationeel bij aantoonbare >16GB-VRAM-workloads.
 - ASUS SCAR 16 5080 `G635LW-RW089W` blijft `conflict`: uitzonderlijk goede hardware, maar het exacte BIOS/externe-monitor/dGPU-pad is niet voldoende gesloten. G-Helper vermindert Armoury-Crate-frictie maar repareert geen firmware.
+- De SCAR is geen fundamenteel zwaarder platform dan de gewone 2025 Strix: bij 275HX/RTX 5080 delen ze de chassisarchitectuur en 175W-GPUgrens. De ongeveer EUR 550 Belgische meerprijs koopt vooral Mini-LED-HDR, per-key/decoratieve verlichting, 1TB extra fabrieksopslag en kleine verfijningen; niet meer GPUvermogen, een volledig metalen chassis of betere support.
 - MSI Raider 5090 `B2WJ-039BE` blijft `conflict`: enige huidige support-adjusted 5090 onder budget en goede batterij, maar exacte BE CPU/paneelmetadata moeten eerst sluiten.
+- PCSpecialist Recoil IV 16 wordt `verifying`: de live EUR 4232-route met 290HX Plus, 175W RTX 5090, 64GB-6400, 2TB, Mini-LED P3, aluminium, groot glazen touchpad en BE AZERTY is de sterkste papieren hardwarewaarde. Hij is nog niet purchase-eligible omdat een exacte onafhankelijke review ontbreekt en Gold in jaar drie geen onderdelen/ophaling dekt.
 - MSI Raider 5080 `B2WI-035BE` blijft value-shortlist, niet premium winnaar.
 - SCAR 5090 `G635LX-RW042W` is bij de live EUR 4899 afgewezen op prijs. De EUR 4287-cache is superseded.
 - XMG E25 blijft `buyer-excluded` wegens lifecycle/connectiviteit, niet wegens bewezen instabiliteit of slechte touchpad.

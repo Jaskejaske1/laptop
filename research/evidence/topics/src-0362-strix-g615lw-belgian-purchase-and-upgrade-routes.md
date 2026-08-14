@@ -16,9 +16,10 @@ legacy_origin: "purchase-route audit 2026-08-14"
 
 - ALTERNATE Belgium lists exact manufacturer part `90NR0LG1-M002P0` at EUR 3099 including VAT, free delivery and in stock. It explicitly states Belgian AZERTY, 32GB, 1TB, 175W RTX 5080 and a 380W charger. The page also advertises the eligible free ASUS third warranty year.
 - ASUS Belgium direct lists the same exact part at EUR 3129 including VAT, available with free 2–3-working-day delivery and a `BELGIUM` keyboard. The free third manufacturer-warranty year requires purchase by 2026-12-31 and registration by 2027-01-31.
+- ASUS Belgium presents `90NR0LG1-M002P0` as a fixed 32GB/1TB add-to-cart SKU, with quantity as the only purchase selector. There is no Belgian ASUS CTO/configurator path for selecting 64GB or larger internal storage before manufacture. Every 64GB/3TB or 64GB/5TB route below is an owner-installed aftermarket upgrade after purchasing the sealed fixed SKU.
 - MediaMarkt Belgium has the exact model page but currently states that delivery is unavailable. LASystems, Dustin and Galaxus expose exact-product pages, but no sufficiently fresh reproducible lower transaction was obtained. Bol's live listing explicitly says Dutch QWERTY and is not the exact Belgian-keyboard transaction despite reusing the family model string.
 
-## Maximum configuration under EUR 4444.17
+## Maximum owner-upgraded configuration under EUR 4444.17
 
 - The exact ASUS family specification supports 64GB maximum through two SO-DIMM slots and provides two M.2 slots. The factory 32GB uses both RAM slots; the 1TB factory SSD leaves one M.2 slot free.
 - Kingston `KF556S40IBK2-64` is a 2x32GB DDR5-5600 CL40 SO-DIMM kit with 1.1V JEDEC/PnP operation. ALTERNATE Belgium lists it in stock at EUR 799 plus EUR 6.99 delivery.

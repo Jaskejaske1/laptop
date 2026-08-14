@@ -33,12 +33,13 @@ De volledige en normatieve eisen staan in [`constraints.md`](constraints.md).
 | Positie | Exact toestel | Complete prijs | Waarom interessant | Wat verhindert een definitieve keuze? |
 |---|---|---:|---|---|
 | Schoonste rationele kandidaat | ASUS Strix G16 `G615LW-S5058W` | EUR 3099 factory 32GB/1TB; EUR 4408,58 Belgische upgrade-route 64GB/5TB; derde jaar na actie-registratie | 275HX, 175W RTX 5080, matte 536-nit/full-P3 IPS, 2x TB5, 2.5GbE, groot 150x100mm touchpad, 7u49 WLAN gemeten | Consumentenservice in plaats van Dell ProSupport; plastic chassis; luid in Turbo; 4TB tweede SSD is sterk aangetoond maar niet exact-SKU-gegarandeerd door ASUS |
+| Sterkste nieuwe papieren value | PCSpecialist Recoil IV 16 configured | EUR 4232 voor 290HX Plus/5090/64GB-6400/2TB; EUR 4392 met vloeistofkoeler | 175W RTX 5090 24GB, Mini-LED P3, aluminium, groot glazen touchpad, 99Wh, 2.5GbE, BE AZERTY, 2x M.2 | Geen onafhankelijke IV-review; batterij officieel slechts tot 5u UMA; één TB4; Gold mist onderdelen/ophaling in jaar drie |
 | Luxere hardware, integratieconflict | ASUS SCAR 16 `G635LW-RW089W` | laatst EUR 3649 Coolblue / EUR 3799 ASUS; live checkout hercontroleren | 175W RTX 5080, matte Mini-LED, 32GB/2TB, groot goed touchpad, stillere sterke koeling, 2x TB5 | Exact BIOS/externe-monitor/dGPU-pad blijft `CONFLICT`; minder batterij; grotendeels plastic |
 | 5090/VRAM-kandidaat | MSI Raider 16 Max HX `B2WJ-039BE` | EUR 4361,62 met derde jaar | 175W RTX 5090 24GB, sterke koeling, goede MSHybrid-batterij, tot 128GB RAM, veel praktische I/O | Exact BE CPU en paneelmetadata zijn `CONFLICT`; glossy OLED; touchpadgedrag en premiumgevoel conflicteren |
 | 5080-value alternatief | MSI Raider 16 Max HX `B2WI-035BE` | EUR 3861,62 met derde jaar | 290HX Plus, 175W RTX 5080, 32GB/2TB, sterke batterij en uitbreiding | Glossy OLED, professioneel conflicterende touchpad/bouw, maximumvermogen vereist luid Apex-profiel |
 | Referentie/fallback | Dell Pro Max 18 Plus `2H3VJ` | EUR 4444,17 met 3Y ProSupport | Beste support-/integratiebaseline, lange batterij, workstationachtige bouw | 18 inch, lagere GPU-klasse; exacte TGP/sustained/DPC van deze SKU blijven niet volledig bewezen |
 
-Er is **nog geen definitieve winnaar**. De gewone Strix is de meest complete aankoop zonder kritieke productmetadata-conflicten. De SCAR koopt vooral Mini-LED, touchpad-afwerking, 1TB extra opslag en stillere koeling—niet wezenlijk meer rekenkracht. De MSI 5090 koopt vooral 24GB VRAM en een hoger RAM-plafond, maar levert premiumgevoel en paneelduurzaamheid in.
+Er is **nog geen absolute winnaar**, maar de gewone Strix is workload-technisch purchase-suitable en de meest complete aankoop zonder kritieke productmetadata-conflicten. Hij overtreft grandMA3/Capture ruim en past programmeren, rendering en zware multitasking. De echte grens is 64GB voor dichte VM-labs; MSI 5090 koopt vooral 24GB VRAM en een hoger RAM-plafond, maar levert premiumgevoel en paneelduurzaamheid in.
 
 ## Beslissingen die niet opnieuw open hoeven
 
@@ -56,6 +57,7 @@ Er is **nog geen definitieve winnaar**. De gewone Strix is de meest complete aan
 2. Hercontroleer de live Belgische prijs/voorraad van SCAR 5080 `G635LW-RW089W`; gebruik geen zoekcache als transactiebewijs.
 3. Sluit voor MSI 5090 `B2WJ-039BE` de exacte CPU- en paneelidentiteit via fabrikant-/doosbewijs. Tot dan: reken conservatief op 275HX en houd paneel op `CONFLICT`.
 4. Vergelijk alleen daarna Strix 5080, SCAR 5080 en MSI 5090 rechtstreeks met Dell op support, platformrust, touchpad, batterij, reparatie en zevenjaarsrisico.
+5. Houd Recoil IV op aankoopstop tot een exacte professionele review sustained power, koeling/lawaai, batterij, touchpad en platformstabiliteit meet én PCSpecialist Platinum/equivalente volledige driejaarsdekking schriftelijk aanbiedt.
 
 ## Zo ga je verder
 
